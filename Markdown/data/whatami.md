@@ -1,6 +1,6 @@
 🦧
 
-![](https://cdn.discordapp.com/attachments/1425896713939325071/1426300318710497511/161916404-one-piece-wallpaper-4k-gear-luffy.png?ex=68eab92f&is=68e967af&hm=d2362d4de6179e4fe95f464c2d97fd1ac4618044d32b7fafb25e907a001e1bc1&)
+![](https://cdn.discordapp.com/attachments/1425896713939325071/1426300318710497511/161916404-one-piece-wallpaper-4k-gear-luffy.png?ex=68f0a7ef&is=68ef566f&hm=4ef3e3c8504659e695229407ddf87e7af3369bde8aacaca276ffd917f3debcf8&)
 test
 ---
 __Advertisement :)__
