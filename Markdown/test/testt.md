@@ -1,3 +1,13 @@
+# Channel: testt
+- Channel ID: 1425916083046715392
+- Category: test
+- Guild: Portfolio DATA [DO NOT DELETE] (1425896612634558555)
+- Export date: 2025-10-18T08:42:31.614Z
+- Exported by: fetcherBot#5812
+- Messages exported: 5
+
+---
+
 ceci est un test
 <#1425916083046715392>
 salut

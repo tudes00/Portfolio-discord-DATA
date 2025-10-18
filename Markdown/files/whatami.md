@@ -1,7 +1,18 @@
+# Channel: whatami
+- Channel ID: 1425896713939325071
+- Category: files
+- Guild: Portfolio DATA [DO NOT DELETE] (1425896612634558555)
+- Export date: 2025-10-18T08:42:29.881Z
+- Exported by: fetcherBot#5812
+- Messages exported: 8
+
+---
+
 🦧
 
 ![](https://cdn.discordapp.com/attachments/1425896713939325071/1426300318710497511/161916404-one-piece-wallpaper-4k-gear-luffy.png?ex=68f49c6f&is=68f34aef&hm=8bb9bf7dbdabd3046105a3ebdc7a4eaa8f98b2dfb14234d1e062b218b5bf09cd&)
 test
+
 ---
 __Advertisement :)__
 

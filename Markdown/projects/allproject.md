@@ -1,3 +1,13 @@
+# Channel: allproject
+- Channel ID: 1428085378019102841
+- Category: projects
+- Guild: Portfolio DATA [DO NOT DELETE] (1425896612634558555)
+- Export date: 2025-10-18T08:42:33.478Z
+- Exported by: fetcherBot#5812
+- Messages exported: 2
+
+---
+
 [
   {
     "name": "Turl",
