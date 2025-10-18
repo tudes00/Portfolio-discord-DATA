@@ -1,13 +1,3 @@
-# Channel: turl
-- Channel ID: 1428082543621570564
-- Category: projects
-- Guild: Portfolio DATA [DO NOT DELETE] (1425896612634558555)
-- Export date: 2025-10-18T08:42:32.845Z
-- Exported by: fetcherBot#5812
-- Messages exported: 1
-
----
-
 # 🔗 Turl, A modern URL shortener
 Turl is a free and secure URL shortener that helps you manage your URLs and track clicks easily.
 
