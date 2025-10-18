@@ -10,7 +10,7 @@
     "date": "2025-02-25"
   },
   {
-    "name": "Albion Online Market Prices",
+    "name": "Albion-Online-Market-Prices",
     "desc": "a site to display the Albion Online market (not optimized at all, it's a dead project)",
     "img": "/images/aomp.png",
     "link": "https:/aomp.vercel.app",
