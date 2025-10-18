@@ -1,4 +1,4 @@
 - This portfolio
-- Vulnhunter V2 (This will be a masterclass)
+- Vulnhunter V2 (This will be a masterclass!)
 - Learning Cybersecurity
 - [Zerolab](https://github.com/tudes00/ZeroLab)
