@@ -2,7 +2,7 @@
   {
     "name": "Turl",
     "desc": "Manage your links easily with Turl, an advanced and open-source URL shortener packed with powerful features! 🚀",
-    "img": "/images/eturl.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/eturl.png",
     "link": "https://eturl.vercel.app/s/turl",
     "github": "https://github.com/tudes00/Turl",
     "status": "Done",
@@ -12,7 +12,7 @@
   {
     "name": "Albion-Online-Market-Prices",
     "desc": "a site to display the Albion Online market (not optimized at all, it's a dead project)",
-    "img": "/images/aomp.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/aomp.png",
     "link": "https:/aomp.vercel.app",
     "github": "https://github.com/tudes00/portfolio",
     "status": "Done",
@@ -28,7 +28,7 @@
   {
     "name": "Portfolio",
     "desc": "present my projects, about me, blogs and many others...",
-    "img": "/images/portfolio.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/portfolio.png",
     "github": "https://github.com/tudes00/portfolio",
     "status": "Done",
     "categories": [
@@ -43,7 +43,7 @@
   },{
     "name": "VulnHunter-V2",
     "desc": "VulnHunter, tool for automating vulnerability scanning and penetration testing!",
-    "img": "/images/vulnhunter.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/vulnhunter.png",
     "status": "In progress",
     "categories": [
       "Cybersecurity",
@@ -64,21 +64,21 @@
   {
     "name": "Youtube-shorts-bot",
     "desc": "Auto generate youtube short with AI",
-    "img": "/images/youtube-shorts.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/youtube-shorts.png",
     "status": "Shelved",
     "categories": ["AI", "Automation", "YouTube", "Content Generation"]
   },
   {
     "name": "Stay-Motivated",
     "desc": "Create personalized roadmaps, earn XP, level up, and unlock achievements as you make progress toward your goals.",
-    "img": "/images/staym.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/staym.png",
     "status": "abandoned",
     "categories": ["Web", "Gamification", "Productivity", "React"]
   },
   {
-    "name": "Hack-The Bot",
+    "name": "Hack-The-Bot",
     "desc": "Hack The Bot was a beginner-friendly Discord project inspired by Hack The Box. It featured interactive cybersecurity challenges through a custom bot. Although the project showed promise, it was eventually discontinued due to lack of time and resources.",
-    "img": "/images/htb.png",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/htb.png",
     "status": "abandoned",
     "categories": ["Discord Bot", "Cybersecurity", "Game", "Education"]
   }
