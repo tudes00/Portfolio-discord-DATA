@@ -1,1 +1,0 @@
-1.0.2 -> Switched to markdown file for projects and, soon, blogs!

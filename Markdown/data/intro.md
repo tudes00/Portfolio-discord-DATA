@@ -1,0 +1,10 @@
+<span id="asciiIntro" style="font-size: 0.5rem;"> ______   __  __     _____     ______     ______   
+/\__  _\ /\ \/\ \   /\  __-.  /\  ___\   /\  ___\  
+\/_/\ \/ \ \ \_\ \  \ \ \/\ \ \ \  __\   \ \___  \ 
+   \ \_\  \ \_____\  \ \____-  \ \_____\  \/\_____\
+    \/_/   \/_____/   \/____/   \/_____/   \/_____/ © 2025
+</span>
+<span class="version">V.1.0.2</span>: Switched to markdown file for project files rendering and soon, blogs!
+
+Hello, welcome to my portfolio!
+Use '<span class="blue-output">help</span>' to get started.
