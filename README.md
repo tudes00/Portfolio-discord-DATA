@@ -1,1 +1,1 @@
-aaaaaa
+This repo is auto generated with my discord bot, it's the data for my [portfolio](https://tudes.vercel.app).
