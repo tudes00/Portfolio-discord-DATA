@@ -1,0 +1,3 @@
+<span class="version">V.1.0.2</span>: Switched to markdown file for project files rendering and soon, blogs!
+<span class="version">V.1.0.1</span>: Fix some problem...
+<span class="version">V.1.0.0</span>: This is the first version, of my terminal!
