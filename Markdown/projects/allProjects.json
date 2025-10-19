@@ -41,7 +41,7 @@
     ],
     "date": "2025-07-06"
   },{
-    "name": "VulnHunter V2",
+    "name": "VulnHunter-V2",
     "desc": "VulnHunter, tool for automating vulnerability scanning and penetration testing!",
     "img": "/images/vulnhunter.png",
     "status": "In progress",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "name": "Better Pronote",
+    "name": "Better-Pronote",
     "desc": "Better Pronote is an extension that enhances your Pronote experience with various options. It adds features and customizes your interface.",
     "img": "https://bp.okman65.xyz/assets/logo.png",
     "status": "Shelved",
@@ -62,23 +62,23 @@
     "categories": ["Extension", "Education", "Productivity", "TypeScript"]
   },
   {
-    "name": "Youtube shorts bot",
+    "name": "Youtube-shorts-bot",
     "desc": "Auto generate youtube short with AI",
     "img": "/images/youtube-shorts.png",
     "status": "Shelved",
     "categories": ["AI", "Automation", "YouTube", "Content Generation"]
   },
   {
-    "name": "Stay Motivated",
+    "name": "Stay-Motivated",
     "desc": "Create personalized roadmaps, earn XP, level up, and unlock achievements as you make progress toward your goals.",
     "img": "/images/staym.png",
     "status": "abandoned",
     "categories": ["Web", "Gamification", "Productivity", "React"]
   },
   {
-    "name": "Hack The Bot",
+    "name": "Hack-The Bot",
     "desc": "Hack The Bot was a beginner-friendly Discord project inspired by Hack The Box. It featured interactive cybersecurity challenges through a custom bot. Although the project showed promise, it was eventually discontinued due to lack of time and resources.",
-    "img": "/images/HTB.png",
+    "img": "/images/htb.png",
     "status": "abandoned",
     "categories": ["Discord Bot", "Cybersecurity", "Game", "Education"]
   }
