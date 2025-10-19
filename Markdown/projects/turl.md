@@ -1,7 +1,7 @@
 # 🔗 Turl, A modern URL shortener
 Turl is a free and secure URL shortener that helps you manage your URLs and track clicks easily.
 
-![Turl](/images/turl.png)
+![Turl](https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/turl.png)
 
 ### **Main Features:**
 - ✅ Shorten long URLs into clean, shareable links
@@ -10,7 +10,7 @@ Turl is a free and secure URL shortener that helps you manage your URLs and trac
 - 👤 User accounts with Google login
 - 📩 Webhook notifications (e.g., to Discord)
 
-![TurlDashboard](/images/turl-dash.png)
+![TurlDashboard](https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/turl-dash.png)
 
 ### **Tech Stack:**
 - **🙃 frontend:** Angular, Tailwind CSS, Chart.js
@@ -28,7 +28,7 @@ Turl is a free and secure URL shortener that helps you manage your URLs and trac
 - ♻️ add btn to reset clicks
 
 ### PageSpeed Insights:
-![TurlPSI](/images/psi.svg)
+![TurlPSI](https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/psi.svg)
 
 ### **Project information:**
 - 🗓️ created on February 2, 2025
