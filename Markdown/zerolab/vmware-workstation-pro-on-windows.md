@@ -25,15 +25,26 @@ Before you begin, make sure you have:
 
 ---
 
-## Create a Broadcom account
+<div style="position: relative; max-height: 220px; overflow: hidden;">
 
-1. Go to the [Broadcom Registration page](https://profile.broadcom.com/web/registration).
-2. Enter your email address and click **Next**.
-   ![Broadcom Registration](/img/VMware/broadcomAccount.png)
-3. Check your inbox (and spam) to verify your email.
-4. Complete the registration form (details are not strict) and click **Create Account**.
-5. When prompted, click **I’ll do it later** to skip optional setup.
-...
+  <div>
+    <h2>Create a Broadcom account</h2>
+    <ol>
+      <li>Go to the <a href="https://profile.broadcom.com/web/registration">Broadcom Registration page</a>.</li>
+      <li>Enter your email address and click <strong>Next</strong>.</li>
+    </ol>
 
-This tutorial and many others are available entirely on [zerolab](https://github.com/tudes00/ZeroLab/)
-👉 [Read the full tutorial](https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/VMware/Install-Vmware-Workstation-Pro.md)
+    <p>This tutorial and many others are available entirely on 
+    <a href="https://github.com/tudes00/ZeroLab/">zerolab</a>.</p>
+  </div>
+
+  <div style="position: absolute; bottom: 0; left: 0; right: 0; height: 80px;
+              background: linear-gradient(to bottom, rgba(255,255,255,0), rgba(255,255,255,1));
+              text-align: center; display: flex; align-items: end; justify-content: center; padding-bottom: 10px;">
+    <a href="https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/VMware/Install-Vmware-Workstation-Pro.md"
+       style="background: rgba(0, 0, 0, 0.7); color: white; padding: 6px 14px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: opacity 0.3s;">
+       👇 Read the full tutorial
+    </a>
+  </div>
+
+</div>
