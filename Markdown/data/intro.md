@@ -4,7 +4,7 @@
    \ \_\  \ \_____\  \ \____-  \ \_____\  \/\_____\
     \/_/   \/_____/   \/____/   \/_____/   \/_____/ © 2025
 </span>
-<span class="version">V.1.0.2</span>: Switched to markdown file for project files rendering and soon, blogs!
+<span class="version">V.1.0.3</span>: Added blogs!
 
 Hello, welcome to my portfolio!
 Use '<span class="blue-output">help</span>' to get started.
