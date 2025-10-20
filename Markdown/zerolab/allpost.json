@@ -1,0 +1,9 @@
+[
+  {
+    "name": "VMware-Workstation-Pro-on-Windows",
+    "desc": "A step-by-step guide to download and install VMware Workstation Pro on Windows. VMware Workstation Pro is virtualization software that lets you run multiple operating systems as virtual machines on a single computer.",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/vmware.png",
+    "categories": ["VM", "Linux"],
+    "date": "2025-09-20"
+  }
+]

@@ -1,4 +1,4 @@
-<span class="blue-output">19 October 2025</span> -> <span class="version">V.1.0.3</span>: Added blogs!
+<span class="blue-output">20 October 2025</span> -> <span class="version">V.1.0.3</span>: Added blogs!
 <span class="blue-output">19 October 2025</span> -> <span class="version">V.1.0.2</span>: Switched to markdown file for project files rendering and soon, blogs!
 <span class="blue-output">August 2025</span> -><span class="version">V.1.0.1</span>: Fix some problem...
 <span class="blue-output">July 2025</span> -> <span class="version">V.1.0.0</span>: This is the first version, of my terminal!
