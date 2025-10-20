@@ -5,5 +5,12 @@
     "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/vmware.png",
     "categories": ["VM", "Linux"],
     "date": "2025-09-20"
+  },
+{
+    "name": "Install-Parrot-Security-OS-VMware",
+    "desc": "A concise step-by-step guide to install Parrot Security OS in VMware Workstation Pro",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/parrotos.png",
+    "categories": ["VM", "Linux", "Parrot"],
+    "date": "2025-09-25"
   }
 ]
