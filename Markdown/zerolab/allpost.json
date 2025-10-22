@@ -12,5 +12,12 @@
     "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/parrotos.png",
     "categories": ["VM", "Linux", "Parrot"],
     "date": "2025-09-25"
+  },
+{
+    "name": "Install-DVWA",
+    "desc": "A step-by-step guide to install Damn Vulnerable Web Application (DVWA) on linux.",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/dvwa.png",
+    "categories": ["VM", "Linux", "Web"],
+    "date": "2025-09-25"
   }
 ]
