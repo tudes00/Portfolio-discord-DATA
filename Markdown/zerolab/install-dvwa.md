@@ -32,6 +32,6 @@
    sudo chmod -R 777 DVWA
    ```
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-👉 [Read the full tutorial](https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/VMware/Install-Vmware-Workstation-Pro.md)
+👉 [Read the full tutorial](https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/linux/Install-DVWA.md)
 
 This tutorial and many others are available entirely on [zerolab](https://github.com/tudes00/ZeroLab/)

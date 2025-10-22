@@ -10,7 +10,7 @@
     "name": "Install-Parrot-Security-OS-VMware",
     "desc": "A concise step-by-step guide to install Parrot Security OS in VMware Workstation Pro",
     "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/parrotos.png",
-    "categories": ["VM", "Linux", "Parrot"],
+    "categories": ["VM", "Linux", "Parrot", "Cybersecurity"],
     "date": "2025-09-25"
   },
 {
@@ -18,6 +18,13 @@
     "desc": "A step-by-step guide to install Damn Vulnerable Web Application (DVWA) on linux.",
     "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/dvwa.png",
     "categories": ["VM", "Linux", "Web"],
-    "date": "2025-09-25"
+    "date": "2025-10-22"
+  },
+{
+    "name": "VMware-tools",
+    "desc": "Install VMware Tools for full access to VMware features",
+    "img": "https://raw.githubusercontent.com/tudes00/Portfolio-discord-DATA/master/Images/vmware.png",
+    "categories": ["VM", "Linux"],
+    "date": "2025-09-29"
   }
 ]
