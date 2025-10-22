@@ -22,6 +22,6 @@
    sudo apt install open-vm-tools open-vm-tools-desktop -y
    ```
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
-👉 [Read the full tutorial](https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/VMware/Vmware-Tools.m)
+👉 [Read the full tutorial](https://github.com/tudes00/ZeroLab/blob/main/notes/tuto/VMware/Vmware-Tools.md)
 
 This tutorial and many others are available entirely on [zerolab](https://github.com/tudes00/ZeroLab/)
